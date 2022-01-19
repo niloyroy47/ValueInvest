@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Value Investing Resources
 
-You can use the [editor on GitHub](https://github.com/niloyroy47/ValueInvest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[The Ken](https://the-ken.com/) <br />
+[Economic Times](https://economictimes.indiatimes.com/) <br />
+[The Economist](https://www.economist.com/) <br />
+[Forbes India](https://www.forbesindia.com/) <br />
+[Kiran D Blog](kiraninvestsandlearns.wordpress.com) <br />
+[Uncommon Profits](https://uncommonprofits.in/) <br />
+[Stalwart](http://stalwartvalue.com/blog/) <br />
+[@rohitchauhan](https://twitter.com/rohitchauhan) <br />
+[Solidarity](https://www.solidarity.in/quarterly-letters/) <br />
+[Market Sense](https://marketsense.substack.com/) <br />
+[Intelsense](intelsense.in) <br />
+[Betaoalpha Substack](https://saketmehrotra.com/premium-content/) <br />
+[Marcellus](https://marcellus.in/blog/) <br />
+[Perfect Research](perfectresearch.blogspot.in) <br />
+[Sanjay Bakshi](https://fundooprofessor.wordpress.com/) <br />
+[The Flywheel substack](https://theflywheel.substack.com/?utm_source=discover_search) <br />
+[Read The Generalist](https://www.readthegeneralist.com/) <br />
+[@borrowed_ideas](https://twitter.com/borrowed_ideas) <br />
+[Non-Gaap Substack](https://nongaap.substack.com/) <br />
+[Seeking Alpha](https://seekingalpha.com/) <br />
+[Motley Fool](https://www.fool.com/) <br />
+[The One Percent Show by Safal Niveshak](https://open.spotify.com/show/5aOkaYLLVNVLLj3QhSASyi) <br />
+[Business Wars](https://open.spotify.com/show/6RbJUsaOaboqSBqQUfdQtR) <br />
+[We Study Billionaries](https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP) <br />
+[The Knowledge Project](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM) <br />
+[Berkshire Hathway AGMs](https://open.spotify.com/show/4bQf9WvU22gUm9WbFfHL7a?si=3VZsS5rdT7-LGDykZCbvuQ&utm_source=whatsapp&dl_branch=1) <br />
+[Motley Fool Money](https://open.spotify.com/show/7tXRc97C1fA0epHAGQuJOE?si=3f1a4792565744d7) <br />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niloyroy47/ValueInvest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
